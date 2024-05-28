@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/HASSNAAM/Blog-preview-card.git)
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://hassnaam.github.io/Blog-preview-card/)
 
 ## My Process
 
